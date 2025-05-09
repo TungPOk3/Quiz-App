@@ -46,8 +46,7 @@
               "RelativeToolTip": "QuizApplication\\Models\\User_Answer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:36:05.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:36:05.739Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "QuizApplication\\Models\\Answer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:32:31.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:32:31.842Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "QuizApplication\\Models\\Question.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:30:41.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:30:41.603Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "QuizApplication\\Models\\Quiz.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:28:34.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:28:34.522Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "QuizApplication\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T15:26:51.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T15:26:51.15Z"
             }
           ]
         }
